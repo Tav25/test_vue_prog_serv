@@ -1,0 +1,12 @@
+GET http://localhost:3000/data
+###
+GET http://localhost:3000/data?sort=date&data=2010&type=equals
+###
+GET http://localhost:3000/data?sort=date&data=2010&type=equals?sort=id&data=45&type=equals
+###
+GET http://localhost:3000/data
+###
+GET http://localhost:3000/client
+###
+GET http://localhost:3000/
+###
